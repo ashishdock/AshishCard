@@ -11,6 +11,7 @@
 		DB8FDD40294C72F500F865EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8FDD3F294C72F500F865EC /* ContentView.swift */; };
 		DB8FDD42294C72F700F865EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB8FDD41294C72F700F865EC /* Assets.xcassets */; };
 		DB8FDD45294C72F700F865EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB8FDD44294C72F700F865EC /* Preview Assets.xcassets */; };
+		DB8FDD4F294C825200F865EC /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8FDD4E294C825200F865EC /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		DB8FDD41294C72F700F865EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB8FDD44294C72F700F865EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DB8FDD46294C72F700F865EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB8FDD4E294C825200F865EC /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				DB8FDD3D294C72F500F865EC /* AshishCardApp.swift */,
 				DB8FDD3F294C72F500F865EC /* ContentView.swift */,
+				DB8FDD4E294C825200F865EC /* InfoView.swift */,
 				DB8FDD41294C72F700F865EC /* Assets.xcassets */,
 				DB8FDD46294C72F700F865EC /* Info.plist */,
 				DB8FDD43294C72F700F865EC /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB8FDD40294C72F500F865EC /* ContentView.swift in Sources */,
+				DB8FDD4F294C825200F865EC /* InfoView.swift in Sources */,
 				DB8FDD3E294C72F500F865EC /* AshishCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
